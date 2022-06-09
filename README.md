@@ -4,15 +4,22 @@
 ## Main concepts tu practice
 
 1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
+2. [Principals contents](#content)
+3. [Technologies](#technologies)
 4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+
+
 ### General Info
 ***
 exercises to practice and play with Javascript in order to strengthen your Koder skills
-### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+
+### Principals contents
+* Estructuras de control
+* Funciones
+* Strings
+* Array
+* Objects
+
 ## Technologies
 ***
 A list of technologies used within the project:
@@ -22,6 +29,6 @@ A list of technologies used within the project:
 
 ## Collaboration
 ***
-Kodemia JS
-rose@kodemia.mx
-naomi@kodemia.mx
+*Kodemia JS
+*rose@kodemia.mx
+*naomi@kodemia.mx
